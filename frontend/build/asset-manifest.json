@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4ed851dd.css",
+    "main.js": "/static/js/main.b4159d85.js",
+    "static/media/ice-bg.webp": "/static/media/ice-bg.641d22eba50345143754.webp",
+    "static/media/Logo.jpg": "/static/media/Logo.ac5c5be17fdf8222d58d.jpg",
+    "index.html": "/index.html",
+    "main.4ed851dd.css.map": "/static/css/main.4ed851dd.css.map",
+    "main.b4159d85.js.map": "/static/js/main.b4159d85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ed851dd.css",
+    "static/js/main.b4159d85.js"
+  ]
+}
